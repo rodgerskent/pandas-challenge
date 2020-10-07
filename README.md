@@ -42,8 +42,11 @@ o	Purchase Count
 o	Item Price
 o	Total Purchase Value
 
-Visuals
-Please reference the Heroes of Pymoli Pitchbook for visuals and key takeaways
+Visuals & Key Takeaways
+Please reference the Heroes of Pymoli Pitchbook for visuals and key takeaways. The three main takeaways from the analysis:
+1) 84% of players identify as male
+2) The 20 to 24 year olds represents that largest group of players and drivers of revenue
+3) Final Critic and Othbreaker are the most popular items and accretive to revenue with larger than average item pricing
 
 Installation
 The Jupyter Notebook was run using Microsoft Edge instead of the recommended Google Chrome
